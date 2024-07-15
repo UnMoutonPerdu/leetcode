@@ -1,4 +1,4 @@
-# Naive solution
+# Naive solution 
 
 The first solution is quite straightforward. The idea is to nest two for loops to look at each couple of numbers in <code>nums</code> until we find the <code>target</code>. 
 
