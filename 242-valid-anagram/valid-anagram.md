@@ -12,6 +12,8 @@ We then iterate over `t` and decrement the frequency of each character when it a
 
 Finally if all frequencies are 0, the program outputs `True`, otherwise `False`.
 
+Thus we reach a <u>time complexity of **O(n)** with `n` the length of `s`.</u>
+
 Here is an example with `s = "anagram"` and `t = "nagaram"`:
 <p align="center">
     <img src="valid1.jpg"
